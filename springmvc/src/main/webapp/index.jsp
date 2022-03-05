@@ -70,6 +70,50 @@
 		<li>
 			<a href="./mvc/case01/hello/sessionInfo">./mvc/case01/hello/sessionInfo</a>
 		</li>
-	</ol>
+		<li>
+			<a href="./mvc/case03/exam/">./mvc/case03/exam/</a>
+		</li>
+		<li>
+			<a href="./mvc/case04/person/">./mvc/case04/person/</a>
+		</li>
+		<li>
+			<a href="./mvc/case04/stock/">./mvc/case04/stock/</a>
+		</li>
+		<li>
+			<a href="./mvc/lab/fund/">./mvc/lab/fund/</a>
+		</li>
+		<li>
+			<a href="./mvc/lab/fundstock/">./mvc/lab/fundstock/</a>
+		</li>
+		<li>
+			<a href="./mvc/lab/fundstock/page/1">./mvc/lab/fundstock/page/{pageNumber}</a>
+		</li>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<li>
+	homework1
+			<a href="./mvc/case02/lotto/">./mvc/case02/lotto/</a>
+		</li>
+	<li>
+	homework2
+			<a href="./mvc/case03/exam/">./mvc/case03/exam/</a>
+		</li>
+	<li>
+	homework2
+			<a href="./mvc/lab/fundstock/page/-1/">./mvc/lab/fundstock/page/-1/</a>
+		</li>
+		
+		</ol>
 </body>
 </html>

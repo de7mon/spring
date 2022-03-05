@@ -46,7 +46,7 @@
     	<tbody>
     		<c:forEach varStatus="status" var="lotto" items="${lottos}">
     		<tr>
-    			<td>${ status.index }</td><td>${lotto }</td><td>${lottos}</td>
+    			<td>${ status.index }</td><td>${lotto }</td>
     			<td>
     				<button type="botton" 
     						onclick="window.location.href='./update/${status.index}';"
